@@ -57,8 +57,8 @@ This app helps users track their income and expenses in real-time, calculate bal
 ---
 
 ## Example Screenshot
+<img width="1919" height="1054" alt="image" src="https://github.com/user-attachments/assets/f10d47a3-5e14-4b79-95fb-af7fc55e4709" />
 
-![Screenshot](screenshot.png)  <!-- Optional: add your screenshot here -->
 
 ---
 
@@ -69,4 +69,5 @@ This app helps users track their income and expenses in real-time, calculate bal
 3. Start adding income and expenses
 
 ---
+
 
