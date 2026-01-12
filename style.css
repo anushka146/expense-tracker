@@ -1,0 +1,64 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+}
+
+.container {
+  width: 350px;
+  margin: 50px auto;
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.summary p {
+  margin: 5px 0;
+}
+
+.income {
+  color: green;
+}
+
+.expense {
+  color: red;
+}
+
+.form input,
+.form select,
+.form button {
+  width: 100%;
+  margin: 5px 0;
+  padding: 8px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  margin: 5px 0;
+  padding: 5px;
+  background: #eee;
+}
+
+li.income {
+  border-left: 5px solid green;
+}
+
+li.expense {
+  border-left: 5px solid red;
+}
+
+button.delete {
+  background: red;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
