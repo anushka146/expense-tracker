@@ -50,9 +50,9 @@ This app helps users track their income and expenses in real-time, calculate bal
 ## Project Structure
 /expense-tracker
 │
-├─ index.html # HTML structure
-├─ style.css # Optional CSS styling
-└─ script.js # JavaScript functionality
+├─ index.html 
+├─ style.css 
+└─ script.js
 
 ---
 
